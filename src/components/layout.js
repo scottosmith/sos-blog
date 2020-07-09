@@ -31,7 +31,6 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h3
         style={{
-          fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
         }}
       >
@@ -52,16 +51,19 @@ const Layout = ({ location, title, children }) => {
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
-        maxWidth: rhythm(24),
+        maxWidth: rhythm(50),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        © {new Date().getFullYear()}{` `}
+        <div className="footer-links">
+            <a href="https://github.com/scottosmith" className="link">github</a>
+            <a href="https://twitter.com/nobodycares314" className="link">twitter</a>
+            <a href="https://www.linkedin.com/me/sos314" className="link">linkedin</a>
+        </div>
       </footer>
     </div>
   )
