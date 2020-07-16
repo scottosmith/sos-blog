@@ -60,12 +60,12 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
+      <footer className="footer">
         © {new Date().getFullYear()}{` `}
         <div className="footer-links">
-            <a href="https://github.com/scottosmith" className="link">github</a>
-            <a href="https://twitter.com/nobodycares314" className="link">twitter</a>
-            <a href="https://www.linkedin.com/me/sos314" className="link">linkedin</a>
+            <a href="https://github.com/scottosmith" rel="noreferrer" className="link" target="_blank">github</a>
+            <a href="https://twitter.com/nobodycares314" rel="noreferrer" className="link" target="_blank">twitter</a>
+            <a href="https://www.linkedin.com/in/sos314" rel="noreferrer" className="link" target="_blank">linkedin</a>
         </div>
       </footer>
     </div>
