@@ -6,8 +6,9 @@ import { rhythm, scale } from "../utils/typography"
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
+  const onRootPath = location.pathname === rootPath;
 
-  if (location.pathname === rootPath) {
+  if (onRootPath) {
     header = (
       <h1
         style={{
@@ -46,12 +47,14 @@ const Layout = ({ location, title, children }) => {
       </h3>
     )
   }
+
+  const width = onRootPath ? rhythm(25) : rhythm(50) ;
   return (
     <div
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
-        maxWidth: rhythm(50),
+        maxWidth: width,
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
