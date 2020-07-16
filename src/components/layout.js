@@ -6,8 +6,9 @@ import { rhythm, scale } from "../utils/typography"
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
+  const onRootPath = location.pathname === rootPath;
 
-  if (location.pathname === rootPath) {
+  if (onRootPath) {
     header = (
       <h1
         style={{
@@ -46,23 +47,25 @@ const Layout = ({ location, title, children }) => {
       </h3>
     )
   }
+
+  const width = onRootPath ? rhythm(25) : rhythm(50) ;
   return (
     <div
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
-        maxWidth: rhythm(50),
+        maxWidth: width,
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
+      <footer className="footer">
         © {new Date().getFullYear()}{` `}
         <div className="footer-links">
-            <a href="https://github.com/scottosmith" className="link">github</a>
-            <a href="https://twitter.com/nobodycares314" className="link">twitter</a>
-            <a href="https://www.linkedin.com/me/sos314" className="link">linkedin</a>
+            <a href="https://github.com/scottosmith" rel="noreferrer" className="link" target="_blank">github</a>
+            <a href="https://twitter.com/nobodycares314" rel="noreferrer" className="link" target="_blank">twitter</a>
+            <a href="https://www.linkedin.com/in/sos314" rel="noreferrer" className="link" target="_blank">linkedin</a>
         </div>
       </footer>
     </div>
