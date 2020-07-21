@@ -15,6 +15,7 @@ const BlogIndex = ({ data, location }) => {
       <SEO title="All posts" />
       {/* <Bio /> */}
       {posts.map(({ node }) => {
+        console.log('[Category] -', node.frontmatter.category)
         const title = node.frontmatter.title || node.fields.slug
         return (
           <article key={node.fields.slug}>
@@ -64,6 +65,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            category
           }
         }
       }
