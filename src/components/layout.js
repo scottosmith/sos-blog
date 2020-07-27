@@ -55,7 +55,7 @@ const Layout = ({ location, title, children }) => {
         marginLeft: `auto`,
         marginRight: `auto`,
         maxWidth: width,
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        padding: `${rhythm(1.5)} ${rhythm(2)}`,
       }}
     >
       <header>{header}</header>
@@ -64,8 +64,8 @@ const Layout = ({ location, title, children }) => {
         © {new Date().getFullYear()}{` `}
         <div className="footer-links">
             <a href="https://github.com/scottosmith" rel="noreferrer" className="link" target="_blank">github</a>
-            <a href="https://twitter.com/nobodycares314" rel="noreferrer" className="link" target="_blank">twitter</a>
             <a href="https://www.linkedin.com/in/sos314" rel="noreferrer" className="link" target="_blank">linkedin</a>
+            <a href="https://twitter.com/nobodycares314" rel="noreferrer" className="link" target="_blank">twitter</a>
         </div>
       </footer>
     </div>

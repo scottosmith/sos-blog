@@ -2,23 +2,29 @@ import Typography from "typography"
 
 const typography = new Typography({
     googleFonts: [{
-        name: 'Ubuntu',
-        styles: [
-            '300',
-            '400',
-            '700'
-        ]
+      name: 'Ubuntu',
+      styles: [
+        '400',
+        '700'
+      ]
+    },
+    {
+      name: 'Poppins',
+      styles: [
+        '400',
+        '700'
+      ]
     }],
-    baseFontSize: '16px',
+    baseFontSize: '15px',
     baseLineHeight: 1.75,
     headerFontFamily: ['Ubuntu'],
-    bodyFontFamily: ['Ubuntu'],
+    bodyFontFamily: ['Poppins'],
     scaleRation: 2,
     paragraphSpacing: 1,
     headerGray: 10,
     headerWeight: 700,
     bodyGray: 10,
-    bodyWeight: 300
+    bodyWeight: 400
 })
 
 // Hot reload typography in development.
