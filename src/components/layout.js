@@ -6,7 +6,7 @@ import { rhythm, scale } from "../utils/typography"
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
-  const onRootPath = location.pathname === rootPath;
+  const onRootPath = location.pathname === rootPath
 
   if (onRootPath) {
     header = (
