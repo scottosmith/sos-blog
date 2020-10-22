@@ -1,34 +1,40 @@
 ---
-title: Midcoast 2 Westcoast (and back)
+title: midcoast to westcoast (and back)
 date: "2020-10-22T09:00:00Z"
 description: ""
 category: "photo"
 ---
 
-![midcoast 2 westcoast](./img/m2w-1.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-2.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-3.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-4.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-5.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-6.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-7.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-8.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-9.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-10.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-11.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-12.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-13.jpg)
-<br><br><br><br><br>
-![midcoast 2 westcoast](./img/m2w-14.jpg)
+Realizing we'd be in STL for at least part of the winter, we also realized our winter stuff was in storage back in LA. A couple days later, on like a Sunday, the idea popped into my head to rent a car and do a quick trip to LA and back to grab some things out of storage. Just a quick errand, no biggie. The next day, I pitched the idea to Maura and of course she was just as into it as I was. On Wednesday, we picked up the rental and Thursday morning around 7am we hit the road. We planned to be gone around 8 days. You can see a lot in 8 days with a Prius and a credit card.
+
+![ ](./img/m2w-1.jpg)
+
+After gunning it across the country, staying with our friends for a night (awesome people, thank you TJ & Kelsey), dealing with a rental car that kept telling me it needed maintenance immediately, and finally picking up our stuff, we were in an out of LA within 24 hours. So busy I only took two pictures there. We headed up the PCH and nestled into a tiny coastal town called Morro Bay. We dug the vibe and stayed a couple nights.
+
+![ ](./img/m2w-2.jpg)
+<br><br>
+![ ](./img/m2w-3.jpg)
+<br><br>
+![ ](./img/m2w-4.jpg)
+<br><br>
+![ ](./img/m2w-5.jpg)
+<br><br>
+![ ](./img/m2w-6.jpg)
+<br><br>
+![ ](./img/m2w-7.jpg)
+<br><br>
+![ ](./img/m2w-8.jpg)
+<br><br>
+![ ](./img/m2w-9.jpg)
+
+Back on the road.
+
+![ ](./img/m2w-10.jpg)
+<br><br>
+![ ](./img/m2w-11.jpg)
+<br><br>
+![ ](./img/m2w-12.jpg)
+<br><br>
+![ ](./img/m2w-13.jpg)
+<br><br>
+![ ](./img/m2w-14.jpg)

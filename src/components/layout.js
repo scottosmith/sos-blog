@@ -30,21 +30,20 @@ const Layout = ({ location, title, children }) => {
     )
   } else {
     header = (
-      <h3
+      <h2
         style={{
           marginTop: 0,
         }}
       >
         <Link
           style={{
-            boxShadow: `none`,
-            color: `inherit`,
+            boxShadow: `none`
           }}
           to={`/`}
         >
-          {title}
+          &lt; {title}
         </Link>
-      </h3>
+      </h2>
     )
   }
 
@@ -63,7 +62,7 @@ const Layout = ({ location, title, children }) => {
       <footer className="footer">
         © {new Date().getFullYear()}{` `}
         <div className="footer-links">
-            <a href="https://scottosmith.net" rel="noreferrer" className="link" target="_blank">me</a>
+            <a href="https://scottosmith.net" rel="noreferrer" className="link" target="_blank">Scott Smith</a>
         </div>
       </footer>
     </div>
