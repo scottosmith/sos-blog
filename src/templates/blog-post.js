@@ -18,23 +18,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       />
       <article>
         <header>
-          <h1
+          <h2
             style={{
               marginTop: rhythm(1),
-              marginBottom: 0,
-            }}
-          >
-            {post.frontmatter.title}
-          </h1>
-          <p
-            style={{
-              ...scale(-1 / 5),
-              display: `block`,
               marginBottom: rhythm(1),
             }}
           >
             {post.frontmatter.date}
-          </p>
+          </h2>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
@@ -59,14 +50,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             <li>
               {previous && (
                 <Link to={previous.fields.slug} rel="prev">
-                  ← {previous.frontmatter.title}
+                  ← {previous.frontmatter.date}
                 </Link>
               )}
             </li>
             <li>
               {next && (
                 <Link to={next.fields.slug} rel="next">
-                  {next.frontmatter.title} →
+                  {next.frontmatter.date} →
                 </Link>
               )}
             </li>
