@@ -3,12 +3,12 @@ module.exports = {
       title: `SOS`,
       author: {
         name: `Scott Smith`,
-        summary: `My internet playground`,
+        summary: `Take a picture, it'll last longer`,
       },
       description: `My playground`,
-      siteUrl: `https://www.scottosmith.net`,
+      siteUrl: `https://blog.scottosmith.net`,
       social: {
-        twitter: `nobodycares314`,
+        twitter: ``,
       },
     },
     plugins: [
