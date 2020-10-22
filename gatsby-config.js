@@ -20,20 +20,13 @@ module.exports = {
         },
       },
       {
-        resolve: `gatsby-source-filesystem`,
-        options: {
-          path: `${__dirname}/content/assets`,
-          name: `assets`,
-        },
-      },
-      {
         resolve: `gatsby-transformer-remark`,
         options: {
           plugins: [
             {
               resolve: `gatsby-remark-images`,
               options: {
-                maxWidth: 1400,
+                maxWidth: 1800,
               },
             },
             {
