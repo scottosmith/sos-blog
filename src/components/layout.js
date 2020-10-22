@@ -48,7 +48,7 @@ const Layout = ({ location, title, children }) => {
     )
   }
 
-  const width = onRootPath ? rhythm(25) : rhythm(60) ;
+  const width = onRootPath ? rhythm(25) : rhythm(75) ;
   return (
     <div
       style={{
@@ -63,8 +63,7 @@ const Layout = ({ location, title, children }) => {
       <footer className="footer">
         © {new Date().getFullYear()}{` `}
         <div className="footer-links">
-            <a href="https://github.com/scottosmith" rel="noreferrer" className="link" target="_blank">github</a>
-            <a href="https://www.linkedin.com/in/sos314" rel="noreferrer" className="link" target="_blank">linkedin</a>
+            <a href="https://scottosmith.net" rel="noreferrer" className="link" target="_blank">me</a>
         </div>
       </footer>
     </div>

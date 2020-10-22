@@ -26,7 +26,7 @@ module.exports = {
             {
               resolve: `gatsby-remark-images`,
               options: {
-                maxWidth: 1800,
+                maxWidth: 2000,
               },
             },
             {
@@ -41,8 +41,13 @@ module.exports = {
           ],
         },
       },
+      {
+        resolve: `gatsby-plugin-sharp`,
+        options: {
+          defaultQuality: 100
+        }
+      },
       `gatsby-transformer-sharp`,
-      `gatsby-plugin-sharp`,
       {
         resolve: `gatsby-plugin-google-analytics`,
         options: {
