@@ -47,14 +47,14 @@ const Layout = ({ location, title, children }) => {
     )
   }
 
-  const width = onRootPath ? rhythm(25) : rhythm(75) ;
+  const width = onRootPath ? rhythm(25) : rhythm(73) ;
   return (
     <div
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
         maxWidth: width,
-        padding: `${rhythm(1.5)} ${rhythm(2)}`,
+        padding: `${rhythm(1.5)} ${rhythm(0.50)}`,
       }}
     >
       <header>{header}</header>
