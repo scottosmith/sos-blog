@@ -48,7 +48,7 @@ const Layout = ({ location, title, children }) => {
     )
   }
 
-  const width = onRootPath ? rhythm(25) : rhythm(60) ;
+  const width = onRootPath ? rhythm(25) : rhythm(75) ;
   return (
     <div
       style={{
