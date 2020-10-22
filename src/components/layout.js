@@ -30,21 +30,20 @@ const Layout = ({ location, title, children }) => {
     )
   } else {
     header = (
-      <h3
+      <h2
         style={{
           marginTop: 0,
         }}
       >
         <Link
           style={{
-            boxShadow: `none`,
-            color: `inherit`,
+            boxShadow: `none`
           }}
           to={`/`}
         >
-          {title}
+          &lt; {title}
         </Link>
-      </h3>
+      </h2>
     )
   }
 
