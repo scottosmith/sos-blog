@@ -63,7 +63,7 @@ const Layout = ({ location, title, children }) => {
       <footer className="footer">
         © {new Date().getFullYear()}{` `}
         <div className="footer-links">
-            <a href="https://scottosmith.net" rel="noreferrer" className="link" target="_blank">me</a>
+            <a href="https://scottosmith.net" rel="noreferrer" className="link" target="_blank">Scott Smith</a>
         </div>
       </footer>
     </div>
