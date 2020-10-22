@@ -65,7 +65,6 @@ const Layout = ({ location, title, children }) => {
         <div className="footer-links">
             <a href="https://github.com/scottosmith" rel="noreferrer" className="link" target="_blank">github</a>
             <a href="https://www.linkedin.com/in/sos314" rel="noreferrer" className="link" target="_blank">linkedin</a>
-            <a href="https://twitter.com/nobodycares314" rel="noreferrer" className="link" target="_blank">twitter</a>
         </div>
       </footer>
     </div>
