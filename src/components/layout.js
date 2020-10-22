@@ -54,7 +54,7 @@ const Layout = ({ location, title, children }) => {
         marginLeft: `auto`,
         marginRight: `auto`,
         maxWidth: width,
-        padding: `${rhythm(1.5)} ${rhythm(1)}`,
+        padding: `${rhythm(1.5)} ${rhythm(0.50)}`,
       }}
     >
       <header>{header}</header>
