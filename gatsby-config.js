@@ -26,7 +26,10 @@ module.exports = {
             {
               resolve: `gatsby-remark-images`,
               options: {
-                maxWidth: 2000,
+                maxWidth: 1900,
+                quality: 100,
+                linkImagesToOriginal: false,
+                wrapperStyle: fluid => `max-width:${(fluid.aspectRatio * 98).toFixed(2)}vh;`,
               },
             },
             {
