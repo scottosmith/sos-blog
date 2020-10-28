@@ -5,7 +5,7 @@ description: ""
 category: "photo"
 ---
 
-We left STL on August 23rd to begin our trip around the West, enventually ending with our arrival in Los Angeles to start living on the West Coast. My grandma was sick but stable, so I decided it was ok to go, not knowing how her situation would play out or for how long. We made it to Leadville, CO the next day and thinking it was the first night of an extended road trip, we partied a little too hard. Combine that with the fact that Leadville sits at 10,000ft above seal level the next day, oooh boy did I pay for it. We took a morning drive across Independence Pass with me begging the world for mercy. What a mess.
+We left STL on August 23rd to begin our trip around the West, enventually landing in Los Angeles to start living on the West Coast. My grandma was sick but stable, so I decided it was ok to go, not knowing how her situation would play out or for how long. We made it to Leadville, CO the next day and thinking it was the first night of an extended road trip, we partied a little too hard. Combine that with the fact that Leadville sits at 10k/ft above seal level and the next day I paid for it. We took a morning drive across Independence Pass with me complaining in a hungover haze. What a mess.
 
 ![ ](./img/tripout-1.jpg)
 <br><br>
@@ -15,7 +15,7 @@ Within 24 hours of arriving in CO, I recieved a call saying my grandma had taken
 
 ![ ](./img/tripout-3.jpg)
 
-Back in the Midwest for a few weeks to deal with family things (RIP Grandma, <3) and then off we went again on September 21st, taking a different route down through OK/NM.
+Returned to the Midwest for a few weeks to be with family (RIP Grandma, <3) and then off we went again about a month later on September 21st, taking a different route down through OK/NM.
 
 ![ ](./img/tripout-4.jpg)
 <br><br>
