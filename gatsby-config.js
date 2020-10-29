@@ -20,6 +20,12 @@ module.exports = {
         },
       },
       {
+        resolve: `gatsby-plugin-sharp`,
+        options: {
+          defaultQuality: 100
+        }
+      },
+      {
         resolve: `gatsby-transformer-remark`,
         options: {
           plugins: [
@@ -30,7 +36,7 @@ module.exports = {
                 quality: 100,
                 linkImagesToOriginal: false,
                 wrapperStyle: fluid => `max-width:${(fluid.aspectRatio * 98).toFixed(2)}vh;`,
-                loading: "eager"
+                loading: "lazy"
               },
             },
             {
@@ -44,12 +50,6 @@ module.exports = {
             `gatsby-remark-smartypants`,
           ],
         },
-      },
-      {
-        resolve: `gatsby-plugin-sharp`,
-        options: {
-          defaultQuality: 100
-        }
       },
       `gatsby-plugin-feed`,
       {

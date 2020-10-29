@@ -11,4 +11,4 @@ Dispersed camping in a national forest is our kind of camping. No facilities, no
 
 ![ ](./img/tripout-2.jpg)
 <br><br>
-![ ](./img/tripout-4.jpg)
+![ ](./img/tripout-3.jpg)
