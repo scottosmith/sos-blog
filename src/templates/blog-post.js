@@ -33,7 +33,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             marginBottom: rhythm(1),
           }}
         />
-        <footer></footer>
       </article>
 
       {(previous || next) && (
