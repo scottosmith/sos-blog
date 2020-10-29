@@ -36,7 +36,7 @@ module.exports = {
                 quality: 100,
                 linkImagesToOriginal: false,
                 wrapperStyle: fluid => `max-width:${(fluid.aspectRatio * 98).toFixed(2)}vh;`,
-                loading: "auto"
+                loading: "lazy"
               },
             },
             {
