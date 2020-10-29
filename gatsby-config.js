@@ -20,6 +20,12 @@ module.exports = {
         },
       },
       {
+        resolve: `gatsby-plugin-sharp`,
+        options: {
+          defaultQuality: 100
+        }
+      },
+      {
         resolve: `gatsby-transformer-remark`,
         options: {
           plugins: [
@@ -44,12 +50,6 @@ module.exports = {
             `gatsby-remark-smartypants`,
           ],
         },
-      },
-      {
-        resolve: `gatsby-plugin-sharp`,
-        options: {
-          defaultQuality: 100
-        }
       },
       `gatsby-plugin-feed`,
       {
