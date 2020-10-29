@@ -30,6 +30,7 @@ module.exports = {
                 quality: 100,
                 linkImagesToOriginal: false,
                 wrapperStyle: fluid => `max-width:${(fluid.aspectRatio * 98).toFixed(2)}vh;`,
+                loading: "eager"
               },
             },
             {
@@ -50,13 +51,6 @@ module.exports = {
           defaultQuality: 100
         }
       },
-      `gatsby-transformer-sharp`,
-      // {
-      //   resolve: `gatsby-plugin-google-analytics`,
-      //   options: {
-      //     //trackingId: `ADD YOUR TRACKING ID HERE`,
-      //   },
-      // },
       `gatsby-plugin-feed`,
       {
         resolve: `gatsby-plugin-manifest`,
@@ -76,9 +70,6 @@ module.exports = {
           pathToConfigModule: `src/utils/typography`,
         },
       },
-      // this (optional) plugin enables Progressive Web App + Offline functionality
-      // To learn more, visit: https://gatsby.dev/offline
-      // `gatsby-plugin-offline`,
     ],
   }
   
