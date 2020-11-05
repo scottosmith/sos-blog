@@ -14,3 +14,14 @@
 .footer-links a {
   margin-left: .25rem;
 }
+
+p > img {
+  max-width: 100vw;
+  height: auto;
+  width: auto;
+  max-height: 98vh;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  display: block;
+}
