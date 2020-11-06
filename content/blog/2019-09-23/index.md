@@ -5,16 +5,16 @@ description: ""
 category: "photo"
 ---
 
-![ ](./img/tripout-1.jpg)
+![ ](https://drive.google.com/uc?id=1aGF_Ao_IaBEQUsHazPx-t-ZkT_pqiVOv)
 
 Woke up in New Mexico.
 
-![ ](./img/tripout-2.jpg)
+![ ](https://drive.google.com/uc?id=1CpOOgc5Dyi71e3tY0EqGIE08PZPExSs_)
 <br><br>
-![ ](./img/tripout-3.jpg)
+![ ](https://drive.google.com/uc?id=1Rk_BllgW3z0U18ldMDL6h1Ai8lqjGteL)
 <br><br>
-![ ](./img/tripout-4.jpg)
+![ ](https://drive.google.com/uc?id=1cnelSQiyt4pr7_KbKsE2JBH1xdhKKolO)
 <br><br>
-![ ](./img/tripout-5.jpg)
+![ ](https://drive.google.com/uc?id=1Z6b4jsdu9Qq0dr4FPBsHbC1MIspZrXEn)
 
 Went to sleep in New Mexico. 
