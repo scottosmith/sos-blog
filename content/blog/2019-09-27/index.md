@@ -9,7 +9,7 @@ category: "photo"
 <br><br>
 ![ ](https://drive.google.com/uc?id=1H5wSKFCSkji3UqEJ6gaGheJgNuCycj0h)
 
-We posted up above the Colorado River off a road that's known for offroading. I've taken that road before when I was out here in a 4WD, it's a rough dirt road that goes all the way to Canyonlands Nat'l Park ending with steep switchbacks up a cliff face and spitting you out right by an entrance to the park... but on the park side. Free entry. It's an amazing road, one of the coolest drives I've ever taken.
+We posted up above the Colorado River off a road that's known for offroading. I've taken it before when I was out here in a 4WD, it's a rough dirt road that goes all the way to Canyonlands Nat'l Park ending with steep switchbacks up a cliff face and spitting you out right by an entrance to the park... but on the park side. Free entry. It's an amazing road, one of the coolest drives I've ever taken.
 
 ![ ](https://drive.google.com/uc?id=17kzSejEtVSrwS_21PVSEEBErW624BYXC)
 <br><br>
@@ -23,7 +23,7 @@ Knowing where that road goes, I was feeling pretty jealous as I watched this per
 <br><br>
 ![ ](https://drive.google.com/uc?id=1xmLEvps-a3i-6OA2q8du7jFRg-FhNL2T)
 
-These are the Potash salt ponds. Weird thing to come across out in the middle of nowhere. Below is a screenshot from Google Maps. Pretty.
+These are the Potash salt ponds. Surreal scene to come across out in the middle of nowhere. Below is a screenshot from Google Maps. Pretty.
 
 ![ ](https://drive.google.com/uc?id=1XK0XfzfSqDIxC_BJrIc9SLj4NIX_cx7P)
 <br><br>
@@ -42,4 +42,4 @@ Ole Sisyphus over here...
 <br><br>
 ![ ](https://drive.google.com/uc?id=1jLgLapaQ5iops-Nj-lvV92Jh6b1m0KQx)
 
-Make a cocktail and enjoy the sunset.
+We made cocktails and enjoyed the sunset. Livin'.
