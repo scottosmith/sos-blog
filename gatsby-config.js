@@ -22,23 +22,13 @@ module.exports = {
       {
         resolve: `gatsby-plugin-sharp`,
         options: {
-          defaultQuality: 100
+          defaultQuality: 90
         }
       },
       {
         resolve: `gatsby-transformer-remark`,
         options: {
           plugins: [
-            {
-              resolve: `gatsby-remark-images`,
-              options: {
-                maxWidth: 1900,
-                quality: 100,
-                linkImagesToOriginal: false,
-                wrapperStyle: fluid => `max-width:${(fluid.aspectRatio * 98).toFixed(2)}vh;`,
-                loading: "lazy"
-              },
-            },
             {
               resolve: `gatsby-remark-responsive-iframe`,
               options: {
