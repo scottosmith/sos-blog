@@ -6,7 +6,6 @@ category: "photo"
 ---
 
 ![ ](https://drive.google.com/uc?id=1n6e-4uCsAp3_bBY_2OuL_71JgVn1iYZI)
-<br><br>
 Happy birthday, Jake
 <br><br>
 ![ ](https://drive.google.com/uc?id=1L1rgWMv8iwt_BUB3NTZ9iRiAosJtu7G8)
