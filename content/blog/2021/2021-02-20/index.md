@@ -33,7 +33,7 @@ She was a good sport about it.
 Last known photo of Trent. He lives over there now.
 <br><br>
 ![ ](https://drive.google.com/uc?id=1CiC_0zX7p6yFh_C4Eb34x_ex58cWFAWA)
-After tossing a large rock on the ice and watching it bounce, we decided this was the best spot to try and cross. Trent got a few steps out and immediately broke through, going up to his knees in cold rushing water. You can see the marks where he had to pull himself out and crawl to the other side. Game over again.
+After tossing a large rock on the ice and watching it bounce, we decided this was the best spot to try and cross. Trent got a few steps out and immediately broke through, going up to his thighs in cold, rushing water. You can see the marks where he had to pull himself out and crawl to the other side. Game over again.
 <br><br>
 ![ ](https://drive.google.com/uc?id=13-H890SGV-DF6oZZUBoz7PfJ4TYd7Lt5)
 They were both good sports about it.
@@ -41,4 +41,5 @@ They were both good sports about it.
 ![ ](https://drive.google.com/uc?id=1-DG4sgHMPIqeVCDILrjlFGU14oVgLUVW)
 <br><br>
 ![ ](https://drive.google.com/uc?id=18oZL-cmsRapp0SXDUfz-b7D5WCvHf83h)
+<br>
 We said fuck it and went home.
