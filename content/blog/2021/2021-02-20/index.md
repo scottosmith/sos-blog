@@ -9,6 +9,7 @@ category: "photo"
 We decided to try something different and do a winter backpacking trip. The plan was just for one night, a few miles back on a trail that, while Trent had done it before, is apparently known for being hard to follow. And that's when it isn't covered in snow... see where this is going?
 <br><br>
 ![ ](https://drive.google.com/uc?id=1FbLHfaiQW8IwDKbUxZ1VdrwrbWSMaGj-)
+We got lost pretty quick. But after some backtracking, we found the trail.
 <br><br>
 ![ ](https://drive.google.com/uc?id=1pKiFuWLXhjS-lgxxqU6CTm65huBLWEg7)
 <br><br>
